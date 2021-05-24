@@ -12,7 +12,7 @@
 
     PRESENTATION:
     - Please write clear, concise code that is appropriately commented.
-    - You may output everything using "console.log();" or by generating HTML.
+    - You may output everything using "print()" statements or a logger.
 
     POINTS TO CONSIDER:
     1) We would like to see your thought process so feel free to speak out allowed / provide explanations in the form of inline comments.
